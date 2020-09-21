@@ -1,7 +1,7 @@
-//version 1
+//version 2
 #include <iostream>
 using namespace std;
 int main() 
 {
-cout<<Hello, World!<<endl;
+cout<<Hello, Git!<<endl;
 }
